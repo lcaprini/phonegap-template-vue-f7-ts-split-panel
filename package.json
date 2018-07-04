@@ -1,0 +1,21 @@
+{
+  "name": "phonegap-template-vue-f7-ts-split-panel",
+  "version": "1.0.0",
+  "description":
+    "A Split View PhoneGap template using Vue.js and Framework7 to develop in Typescript that degrades to a Panel View on smaller devices",
+  "main": "index.js",
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "bugs": {
+    "url":
+      "https://github.com/lcaprini/phonegap-template-vue-f7-ts-split-panel/issues"
+  },
+  "homepage":
+    "https://github.com/lcaprini/phonegap-template-vue-f7-ts-split-panel#readme",
+  "author": "Luca Caprini",
+  "license": "Apache-2.0"
+}
